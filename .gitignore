@@ -1,0 +1,13 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore build files
+*.zip
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.sublime-* 
